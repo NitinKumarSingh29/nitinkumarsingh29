@@ -1,85 +1,85 @@
 
 <h1 align="center">Hi 👋, I'm Nitin Kumar Singh</h1>
 
-<h3 align="center">Data Analyst | Python Developer | SQL & Business Intelligence</h3>
+<h3 align="center">Data Analyst | Python | SQL | Business Intelligence</h3>
 
 <p align="center">
-  Turning raw data into actionable business insights 📊
+  <img src="https://komarev.com/ghpvc/?username=NitinKumarSingh29&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Power+BI;Apache+Superset+%7C+Data+Analytics;Building+projects+and+learning+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%26+Automation;Turning+Data+Into+Insights" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="500" alt="Computer Coding Animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📊 Data Analyst with **1.3 years of experience**
+- 📊 Data Analyst with 1.3 years of experience
 - 🐍 Working with Python, Pandas and NumPy
-- 🗄️ Experienced in SQL, MySQL and query optimization
-- 📈 Building interactive dashboards using Power BI and Apache Superset
+- 🗄️ SQL, MySQL and query optimization
+- 📈 Power BI and Apache Superset dashboards
 - 🤖 Interested in data automation and machine learning
 - 🎓 B.Tech in Computer Science and Engineering
-- 🚀 Always learning and building practical projects
+- 🚀 Learning new technologies and building practical projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js,react,bootstrap,vscode" alt="Tech Stack" />
 </p>
 
-**Data Analytics & BI**
+**Data Analytics:** Python, SQL, MySQL, Pandas, NumPy, Matplotlib, Advanced Excel
 
-`SQL` `MySQL` `Pandas` `NumPy` `Matplotlib` `Power BI` `Apache Superset` `Advanced Excel`
+**Business Intelligence:** Power BI, Apache Superset, Dashboard Reporting
 
-**Programming & Web Development**
+**Web Development:** HTML, CSS, JavaScript, React.js, Bootstrap, PHP
 
-`Python` `C` `C++` `JavaScript` `HTML` `CSS` `React.js` `PHP`
-
-**Core Skills**
-
-`Data Cleaning` `EDA` `Data Visualization` `SQL Optimization` `Dashboard Reporting`
+**Core Skills:** Data Cleaning, EDA, Data Visualization, SQL Optimization
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 1. Mattress Company Database Management & Analytics
+### 📊 Mattress Company Database Management & Analytics
 
 - Managed sales, inventory, order and customer data.
 - Optimized SQL queries using indexing and query restructuring.
 - Created Python data-cleaning scripts and automated reports.
-- Built dashboards for sales and inventory insights.
+- Built Power BI and Apache Superset dashboards.
 
-**Tech:** Python, SQL, MySQL, Pandas, Apache Superset, Power BI, Excel
+**Technologies:** Python, SQL, MySQL, Pandas, Power BI, Apache Superset, Excel
 
-### 2. Credit Card Fraud Detection
+### 🤖 Credit Card Fraud Detection
 
 - Developed a machine learning model to classify transactions as valid or fraudulent.
 - Performed data preprocessing and exploratory data analysis.
-- Evaluated the model using machine learning techniques.
+- Evaluated model performance using Scikit-learn.
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-### 3. Travelling Web Page
+### 🌍 Travelling Web Page
 
-- Developed a travel website to explore locations using embedded YouTube videos.
+- Developed a travel website featuring locations and embedded YouTube videos.
 
-**Tech:** HTML, CSS, Bootstrap, PHP, MySQL
+**Technologies:** HTML, CSS, Bootstrap, PHP, MySQL
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitinKumarSingh29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinKumarSingh29&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinKumarSingh29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -90,14 +90,14 @@
 
 ## 🎓 Education
 
-- **B.Tech, Computer Science and Engineering** — Galgotia's University
-- **Diploma, Computer Science and Engineering** — Amity University
+- 🎓 B.Tech in Computer Science and Engineering — Galgotia's University
+- 🎓 Diploma in Computer Science and Engineering — Amity University
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NitinKumarSingh29">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -107,5 +107,7 @@
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  💻 Keep Learning • Keep Building • Keep Growing 🚀
 </p>
+
+
